@@ -90,7 +90,7 @@
     "scroll": "Scroll",
     "scrollmap_note": "Hinweis: Aktuell zeigt dies Aktivitäten basierend auf Maus-Bewegungen, keine Scroll-Werte.",
     "segment_plural": "Segmente",
-    "segment.add_empty": "Erzeige neues Segment",
+    "segment.add_empty": "Erzeuge neues Segment",
     "segment.copy_to_new": "Segment kopieren",
     "segment.remove": "Segment entfernen",
     "segment.rename": "Segment umbenennen",
